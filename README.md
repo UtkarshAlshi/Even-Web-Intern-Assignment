@@ -3,6 +3,10 @@
 ## Overview
 This project implements an **infinite horizontal scrolling** feature using **Next.js**. Data is fetched from the [Rick and Morty API](https://rickandmortyapi.com/) and displayed as a sequence of character cards. When the user reaches the end of the list, more data is automatically loaded, ensuring a smooth infinite scrolling experience.
 
+## Demonstration of the task
+
+https://github.com/user-attachments/assets/bd07b2b0-7447-40cb-9102-48b9d29bc094
+
 ## Features
 - 📜 **Infinite Horizontal Scroll**: Scroll horizontally to view cards, and once you reach the end, new cards are fetched automatically.
 - 🔄 **Automatic API Calls**: Data is fetched dynamically using `fetch` when scrolling reaches the end.
@@ -74,10 +78,10 @@ The project fetches data from the **Rick and Morty API**:
 - 🔹 **Caching API Responses** to reduce redundant requests.
 
 ## Author
-👨‍💻 **Utkarsh Alshi**  
-📧 **utkarshalshi02@gmail.com**  
-🔗 [GitHub] - https://github.com/UtkarshAlshi | 
-[LinkedIn] - https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/
+👨‍💻 Utkarsh Alshi  
+📧 utkarshalshi02@gmail.com  
+🔗 [GitHub] - https://github.com/UtkarshAlshi  
+🔗 [LinkedIn] - https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/
 ---
 Made with ❤️ using **Next.js** & **React**.
 
