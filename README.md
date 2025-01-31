@@ -78,10 +78,11 @@ The project fetches data from the **Rick and Morty API**:
 - 🔹 **Caching API Responses** to reduce redundant requests.
 
 ## Author
-👨‍💻 Utkarsh Alshi  
-📧 utkarshalshi02@gmail.com  
-🔗 [GitHub] - https://github.com/UtkarshAlshi  
-🔗 [LinkedIn] - https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/
+👨‍💻 Utkarsh Alshi
+📧 utkarshalshi02@gmail.com
+🔗 Github - https://github.com/UtkarshAlshi
+🔗 Linkedin - https:??www.linkedin.com/in/utkarsh-alshi-70b0b6227/
+
 ---
 Made with ❤️ using **Next.js** & **React**.
 
