@@ -79,9 +79,12 @@ The project fetches data from the **Rick and Morty API**:
 
 ## Author
 👨‍💻 Utkarsh Alshi
+<br>
 📧 utkarshalshi02@gmail.com
+<br>
 🔗 Github - https://github.com/UtkarshAlshi
-🔗 Linkedin - https:??www.linkedin.com/in/utkarsh-alshi-70b0b6227/
+<br>
+🔗 Linkedin - https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/
 
 ---
 Made with ❤️ using **Next.js** & **React**.
